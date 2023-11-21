@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react'
 import './App.css'
-import Header from './component/header'
+import Header from './component/Header'
 import Chart from './component/Chart'
 
 function App() {
