@@ -1,0 +1,8 @@
+.chart{
+    position: relative;
+}
+.chart>div{
+    position: absolute;
+    right: 20%;
+    bottom: 32px;
+}
